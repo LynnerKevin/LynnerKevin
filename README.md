@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently studyng data science and Python at Bloom Tech
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?usernameLynnerKevin&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
 <!--
 **LynnerKevin/LynnerKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
