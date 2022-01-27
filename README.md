@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm an aspiring Python developer with and interest in data science and exploration
+### I am an aspiring Python developer with and interest in data science and exploration
 
 :floppy_disk: I’m currently learning data science at Bloom Tech
 
