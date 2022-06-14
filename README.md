@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am an aspiring Python developer with and interest in data science and exploration
 
-:floppy_disk: I’m currently learning data science at Bloom Tech
+:floppy_disk: Python developer, data scientist and engineer
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LynnerKevin&theme=buefy&show_icons=true" />
